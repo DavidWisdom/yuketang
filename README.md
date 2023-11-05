@@ -2,10 +2,6 @@
 
 华工雨课堂多线程刷课脚本
 
-以下是原脚本仓库：
-
-https://github.com/Cat1007/yuketangHelperSCUTLite
-
 脚本改进：
 
 多线程刷课，爽到起飞🛫
@@ -27,3 +23,6 @@ https://github.com/Cat1007/yuketangHelperSCUTLite
 7. 运行脚本，输入对应课程编号并回车
 ## 运行效果图
 ![image](https://github.com/DavidWisdom/yuketang/assets/88563609/59675b83-2b9a-42ca-b614-603dd8585ada)
+
+以下是原脚本仓库：
+https://github.com/Cat1007/yuketangHelperSCUTLite
