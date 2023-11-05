@@ -17,10 +17,9 @@ https://github.com/Cat1007/yuketangHelperSCUTLite
 3. 克隆仓库
 4. 安装requests库
 5. 在Google Chrome打开浏览器，登录https://scut.yuketang.cn/，然后F12，点击Application，然后查看Cookies
+![1699172310250](https://github.com/DavidWisdom/yuketang/assets/88563609/8515d098-f2f2-42e6-8ae9-147000d4e278)
 
-![1699172310250](C:\Users\DavidWisdom\AppData\Roaming\Typora\typora-user-images\1699172310250.png)
-
-![1699172358646](C:\Users\DavidWisdom\AppData\Roaming\Typora\typora-user-images\1699172358646.png)
+![1699172358646](https://github.com/DavidWisdom/yuketang/assets/88563609/cffdbd44-2b6b-4143-b576-24cc11846785)
 
 最后将cookies里面的csrftoken/sessonid/univensity_id的值复制到代码里面的对应位置
 
