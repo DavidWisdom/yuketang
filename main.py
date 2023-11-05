@@ -197,8 +197,8 @@ if __name__ == "__main__":
             flag = False    # 输入合法则不需要循环
             # 0 表示全部刷一遍
             # 使用多线程处理每个视频
-            threads = []
             for ins in your_courses:
+                threads = []
                 homework_dic = get_videos_ids(ins["course_name"], ins["classroom_id"], ins["course_sign"])
                 for one_video in homework_dic.items():
                     # 创建线程并启动
@@ -207,8 +207,8 @@ if __name__ == "__main__":
                     t.start()
                     threads.append(t)
                 # 等待所有线程执行完毕
-            for t in threads:
-                t.join()
+                for t in threads:
+                    t.join()
         else:
             flag = False    # 输入合法则不需要循环
             threads = []
