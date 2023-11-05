@@ -25,3 +25,5 @@ https://github.com/Cat1007/yuketangHelperSCUTLite
 最后将cookies里面的csrftoken/sessonid/univensity_id的值复制到代码里面的对应位置
 
 7. 运行脚本，输入对应课程编号并回车
+## 运行效果图
+![image](https://github.com/DavidWisdom/yuketang/assets/88563609/59675b83-2b9a-42ca-b614-603dd8585ada)
