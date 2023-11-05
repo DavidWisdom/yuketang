@@ -222,4 +222,6 @@ if __name__ == "__main__":
                                   your_courses[number]["sku_id"]))
                 t.start()
                 threads.append(t)
+            for t in threads:
+                t.join()
         print("搞定啦")
